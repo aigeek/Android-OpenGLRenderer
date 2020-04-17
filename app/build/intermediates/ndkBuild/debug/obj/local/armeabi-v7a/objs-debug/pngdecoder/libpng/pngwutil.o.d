@@ -1,23 +1,23 @@
-D:/Android/AndroidStudioProjects/OpenGLRender-as/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/objs-debug/pngdecoder/./libpng/pngwutil.o: \
- D:/Android/AndroidStudioProjects/OpenGLRender-as/app/src/main/jni/3rdparty/./libpng/pngwutil.c \
- D:/Android/AndroidStudioProjects/OpenGLRender-as/app/src/main/jni/3rdparty/./libpng/./pngpriv.h \
- D:/Android/AndroidStudioProjects/OpenGLRender-as/app/src/main/jni/3rdparty/./libpng/././pnglibconf.h \
- D:/Android/AndroidStudioProjects/OpenGLRender-as/app/src/main/jni/3rdparty/./libpng/././png.h \
- D:/Android/AndroidStudioProjects/OpenGLRender-as/app/src/main/jni/3rdparty/./libpng/./././pngconf.h \
- D:/Android/AndroidStudioProjects/OpenGLRender-as/app/src/main/jni/3rdparty/./libpng/././pngstruct.h \
- D:/Android/AndroidStudioProjects/OpenGLRender-as/app/src/main/jni/3rdparty/./libpng/././pnginfo.h \
- D:/Android/AndroidStudioProjects/OpenGLRender-as/app/src/main/jni/3rdparty/./libpng/././pngdebug.h
+/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/objs-debug/pngdecoder/./libpng/pngwutil.o: \
+ /Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/src/main/jni/3rdparty/./libpng/pngwutil.c \
+ /Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/src/main/jni/3rdparty/./libpng/./pngpriv.h \
+ /Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/src/main/jni/3rdparty/./libpng/././pnglibconf.h \
+ /Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/src/main/jni/3rdparty/./libpng/././png.h \
+ /Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/src/main/jni/3rdparty/./libpng/./././pngconf.h \
+ /Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/src/main/jni/3rdparty/./libpng/././pngstruct.h \
+ /Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/src/main/jni/3rdparty/./libpng/././pnginfo.h \
+ /Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/src/main/jni/3rdparty/./libpng/././pngdebug.h
 
-D:/Android/AndroidStudioProjects/OpenGLRender-as/app/src/main/jni/3rdparty/./libpng/./pngpriv.h:
+/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/src/main/jni/3rdparty/./libpng/./pngpriv.h:
 
-D:/Android/AndroidStudioProjects/OpenGLRender-as/app/src/main/jni/3rdparty/./libpng/././pnglibconf.h:
+/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/src/main/jni/3rdparty/./libpng/././pnglibconf.h:
 
-D:/Android/AndroidStudioProjects/OpenGLRender-as/app/src/main/jni/3rdparty/./libpng/././png.h:
+/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/src/main/jni/3rdparty/./libpng/././png.h:
 
-D:/Android/AndroidStudioProjects/OpenGLRender-as/app/src/main/jni/3rdparty/./libpng/./././pngconf.h:
+/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/src/main/jni/3rdparty/./libpng/./././pngconf.h:
 
-D:/Android/AndroidStudioProjects/OpenGLRender-as/app/src/main/jni/3rdparty/./libpng/././pngstruct.h:
+/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/src/main/jni/3rdparty/./libpng/././pngstruct.h:
 
-D:/Android/AndroidStudioProjects/OpenGLRender-as/app/src/main/jni/3rdparty/./libpng/././pnginfo.h:
+/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/src/main/jni/3rdparty/./libpng/././pnginfo.h:
 
-D:/Android/AndroidStudioProjects/OpenGLRender-as/app/src/main/jni/3rdparty/./libpng/././pngdebug.h:
+/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/src/main/jni/3rdparty/./libpng/././pngdebug.h:

@@ -1,0 +1,30 @@
+{
+  "buildFiles": [
+    "/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/src/main/jni/Android.mk",
+    "/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/src/main/jni/Application.mk"
+  ],
+  "cleanCommands": [
+    "/Users/yao/Development/NDK/android-ndk-r16b/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/src/main/jni/Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/build/intermediates/ndkBuild/release/lib clean"
+  ],
+  "buildTargetsCommand": "/Users/yao/Development/NDK/android-ndk-r16b/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/src/main/jni/Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/build/intermediates/ndkBuild/release/lib {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "pngdecoder-release-x86_64": {
+      "artifactName": "pngdecoder",
+      "buildCommand": "/Users/yao/Development/NDK/android-ndk-r16b/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/src/main/jni/Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/build/intermediates/ndkBuild/release/lib /Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/build/intermediates/ndkBuild/release/obj/local/x86_64/libpngdecoder.a",
+      "abi": "x86_64",
+      "output": "/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/build/intermediates/ndkBuild/release/obj/local/x86_64/libpngdecoder.a"
+    },
+    "songstudio-release-x86_64": {
+      "artifactName": "songstudio",
+      "buildCommand": "/Users/yao/Development/NDK/android-ndk-r16b/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/src/main/jni/Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/build/intermediates/ndkBuild/release/lib /Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/build/intermediates/ndkBuild/release/obj/local/x86_64/libsongstudio.so",
+      "abi": "x86_64",
+      "output": "/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/build/intermediates/ndkBuild/release/obj/local/x86_64/libsongstudio.so"
+    },
+    "renderer-release-x86_64": {
+      "artifactName": "renderer",
+      "buildCommand": "/Users/yao/Development/NDK/android-ndk-r16b/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/src/main/jni/Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/build/intermediates/ndkBuild/release/lib /Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/build/intermediates/ndkBuild/release/obj/local/x86_64/librenderer.a",
+      "abi": "x86_64",
+      "output": "/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/build/intermediates/ndkBuild/release/obj/local/x86_64/librenderer.a"
+    }
+  }
+}

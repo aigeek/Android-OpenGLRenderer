@@ -1,0 +1,63 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer",
+      "sdkFolder": "/Users/yao/Development/android-sdk-macosx",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/build/intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app",
+      "makeFile": "/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/src/main/jni/Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "compilerSettingsCacheFolder": "/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/.cxx",
+      "cxxFolder": "/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/.cxx",
+      "ndkFolder": "/Users/yao/Development/NDK/android-ndk-r16b",
+      "ndkVersion": "16.1.4479499",
+      "ndkSupportedAbiList": [
+        "ARMEABI",
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "MIPS",
+        "MIPS64",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "release",
+    "soFolder": "/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/build/intermediates/ndkBuild/release/lib",
+    "objFolder": "/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/build/intermediates/ndkBuild/release/obj/local",
+    "jsonFolder": "/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/.cxx/ndkBuild/release",
+    "gradleBuildOutputFolder": "/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/.cxx/cxx/release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARMEABI_V7A",
+  "abiPlatformVersion": 14,
+  "cxxBuildFolder": "/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/.cxx/ndkBuild/release/armeabi-v7a",
+  "jsonFile": "/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/.cxx/ndkBuild/release/armeabi-v7a/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/.cxx/cxx/release/armeabi-v7a",
+  "objFolder": "/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a",
+  "buildCommandFile": "/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/.cxx/ndkBuild/release/armeabi-v7a/build_command.txt",
+  "buildOutputFile": "/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/.cxx/ndkBuild/release/armeabi-v7a/build_output.txt",
+  "modelOutputFile": "/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/.cxx/ndkBuild/release/armeabi-v7a/build_model.json",
+  "jsonGenerationLoggingRecordFile": "/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/.cxx/ndkBuild/release/armeabi-v7a/json_generation_record.json",
+  "compileCommandsJsonFile": "/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/.cxx/ndkBuild/release/armeabi-v7a/compile_commands.json"
+}

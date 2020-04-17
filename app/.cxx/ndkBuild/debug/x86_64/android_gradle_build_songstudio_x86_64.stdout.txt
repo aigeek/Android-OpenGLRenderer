@@ -1,0 +1,17 @@
+[x86_64] Compile        : pngdecoder <= png.c
+[x86_64] Compile        : pngdecoder <= pngerror.c
+[x86_64] Compile        : pngdecoder <= pngget.c
+[x86_64] Compile        : pngdecoder <= pngmem.c
+[x86_64] Compile        : pngdecoder <= pngpread.c
+[x86_64] Compile        : pngdecoder <= pngread.c
+[x86_64] Compile        : pngdecoder <= pngrio.c
+[x86_64] Compile        : pngdecoder <= pngrtran.c
+[x86_64] Compile        : pngdecoder <= pngrutil.c
+[x86_64] Compile        : pngdecoder <= pngset.c
+[x86_64] Compile        : pngdecoder <= pngtrans.c
+[x86_64] Compile        : pngdecoder <= pngwio.c
+[x86_64] Compile        : pngdecoder <= pngwrite.c
+[x86_64] Compile        : pngdecoder <= pngwtran.c
+[x86_64] Compile        : pngdecoder <= pngwutil.c
+[x86_64] StaticLibrary  : libpngdecoder.a
+[x86_64] SharedLibrary  : libsongstudio.so

@@ -123,8 +123,9 @@
     * Note that gcc-4.9 defines __ARM_NEON instead of __ARM_NEON__, so we
     * check both variants.
     */
-/** Update By Xiaokai: 仅在Android下面开启Neon优化 **/
-#  if defined(__ANDROID__) && (defined(__ARM_NEON__) || defined(__ARM_NEON)) && \
+/** Update By Xiaokai: 仅在Android下面开启Neon优化:
+ * undefined reference to `png_init_filter_functions_neon'-->https://www.wandouip.com/t5i408647/ **/
+#  if defined(__ANDROID__) && (defined(PNG_ARM_NEON)) && (defined(__ARM_NEON__) || defined(__ARM_NEON)) && \
    defined(PNG_ALIGNED_MEMORY_SUPPORTED)
 #     define PNG_ARM_NEON_OPT 2
 #  else

@@ -1,8 +1,8 @@
-D:/Android/AndroidStudioProjects/OpenGLRender-as/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/objs-debug/renderer/./egl_core.o: \
- D:/Android/AndroidStudioProjects/OpenGLRender-as/app/src/main/jni/librenderer/./egl_core.cpp \
- D:/Android/AndroidStudioProjects/OpenGLRender-as/app/src/main/jni/librenderer/./egl_core.h \
- D:/Android/AndroidStudioProjects/OpenGLRender-as/app/src/main/jni/librenderer/././../libcommon/CommonTools.h
+/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/objs-debug/renderer/./egl_core.o: \
+ /Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/src/main/jni/librenderer/./egl_core.cpp \
+ /Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/src/main/jni/librenderer/./egl_core.h \
+ /Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/src/main/jni/librenderer/././../libcommon/CommonTools.h
 
-D:/Android/AndroidStudioProjects/OpenGLRender-as/app/src/main/jni/librenderer/./egl_core.h:
+/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/src/main/jni/librenderer/./egl_core.h:
 
-D:/Android/AndroidStudioProjects/OpenGLRender-as/app/src/main/jni/librenderer/././../libcommon/CommonTools.h:
+/Users/yao/Development/open_android_demo/OpenGL/zhangxiaokai/Android-OpenGLRenderer/app/src/main/jni/librenderer/././../libcommon/CommonTools.h:
